@@ -14,7 +14,7 @@ var flowfield;
 
 function setup() {
   
-  createCanvas(1500, 1500);
+  createCanvas(1000, 1000);
   cols = floor(width / scl);
   rows = floor(height / scl);
   fr = createP('');
